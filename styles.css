@@ -93,6 +93,7 @@ p {
 }
 
 ol {
+    list-style-type: lower-alpha;
     list-style-position: inside;
     padding-left: 0;
     margin-bottom: 20px;
